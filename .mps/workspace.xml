@@ -6,7 +6,26 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61b7113f-e5e1-494e-b105-cda2df713b55" name="Default Changelist" comment="" />
+    <list default="true" id="61b7113f-e5e1-494e-b105-cda2df713b55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/classes_gen/NewLanguage/behavior/RascalImporter__BehaviorDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/classes_gen/NewLanguage/behavior/RascalImporter__BehaviorDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/classes_gen/NewLanguage/behavior/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/classes_gen/NewLanguage/behavior/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/classes_gen/NewLanguage/editor/RascalImporter_EditorBuilder_a$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/classes_gen/NewLanguage/editor/RascalImporter_EditorBuilder_a$3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/classes_gen/NewLanguage/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/classes_gen/NewLanguage/editor/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/models/behavior.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/models/behavior.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/models/editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/models/editor.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/sandbox/models/NewLanguage.sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/sandbox/models/NewLanguage.sandbox.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/sandbox/source_gen.caches/NewLanguage/sandbox/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/sandbox/source_gen.caches/NewLanguage/sandbox/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/source_gen.caches/NewLanguage/behavior/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/source_gen.caches/NewLanguage/behavior/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/source_gen.caches/NewLanguage/behavior/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/source_gen.caches/NewLanguage/behavior/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/source_gen.caches/NewLanguage/editor/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/source_gen.caches/NewLanguage/editor/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/source_gen.caches/NewLanguage/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/source_gen.caches/NewLanguage/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/source_gen/NewLanguage/behavior/RascalImporter__BehaviorDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/source_gen/NewLanguage/behavior/RascalImporter__BehaviorDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/source_gen/NewLanguage/behavior/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/source_gen/NewLanguage/behavior/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/source_gen/NewLanguage/editor/RascalImporter_EditorBuilder_a.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/source_gen/NewLanguage/editor/RascalImporter_EditorBuilder_a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/NewLanguage/source_gen/NewLanguage/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/NewLanguage/source_gen/NewLanguage/editor/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/external/libs/rascal-0.12.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/external/libs/rascal-0.12.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +46,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="954317ab-fb35-4f90-9bd5-17dbe8d219fd/r:8a0477d6-e65a-4f62-a253-bf90971cde18(TempModule954317ab-fb35-4f90-9bd5-17dbe8d219fd/TempModel_14583333003864)">
+            <model ref="45d23d89-1029-4d80-91eb-0dd267c20f81/r:f09349bd-7d10-4a68-b0d9-def294a953dd(TempModule45d23d89-1029-4d80-91eb-0dd267c20f81/TempModel_92106091296608)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -47,11 +66,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="47dXBiQ8HYC">
-                <node concept="3balQm" id="47dXBiQ8HYD" role="aymYE" />
-                <node concept="2Clz$F" id="47dXBiQ8HYE" role="aymYO" />
-                <node concept="2_V_lH" id="47dXBiQ8HYF" role="1PhJh3">
-                  <ref role="2_V_lI" node="47dXBiQ8HYE" resolve="CommandHolder" />
+              <node concept="aymSD" id="7ta4YtI_KPZ">
+                <node concept="3balQm" id="7ta4YtI_KQ0" role="aymYE" />
+                <node concept="2Clz$F" id="7ta4YtI_KQ1" role="aymYO" />
+                <node concept="2_V_lH" id="7ta4YtI_KQ2" role="1PhJh3">
+                  <ref role="2_V_lI" node="7ta4YtI_KQ1" resolve="CommandHolder" />
                 </node>
               </node>
             </model>
@@ -77,10 +96,11 @@
     <session id="354493114">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.4" value="2" />
@@ -89,7 +109,7 @@
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -98,15 +118,17 @@
           <entry key="CellModel_JComponent" value="2" />
           <entry key="ConceptDeclaration" value="1" />
           <entry key="ConceptEditorDeclaration" value="1" />
-          <entry key="RascalImporter" value="13" />
+          <entry key="Rascal2MPS" value="1" />
+          <entry key="RascalImporter" value="24" />
           <entry key="TerminalNode" value="1" />
+          <entry key="URIUtil" value="1" />
           <entry key="main" value="1" />
           <entry key="note" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="MPS_NODE" value="21" />
+          <entry key="MPS_NODE" value="34" />
         </counts>
       </usages-collector>
     </session>
@@ -121,11 +143,11 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="64" />
-                    <property name="caretXRelative" value="49" />
+                    <property name="caretX" value="323" />
+                    <property name="caretXRelative" value="105" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_ueqr71_c0a">
-                      <node node_reference="r:c1b74b72-975a-42f3-b7fb-5fbd742cc995(NewLanguage.structure)/1078366219464012126" />
+                    <cellInfo cellId="property_name">
+                      <node node_reference="r:098003af-922e-427d-b80c-3ac0cb697351(NewLanguage.editor)/1078366219464082739" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -134,7 +156,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -145,7 +167,7 @@
                   <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
                 </enabledHints>
               </inspectorMemento>
-              <node node_ref="r:c1b74b72-975a-42f3-b7fb-5fbd742cc995(NewLanguage.structure)/1078366219464012126" />
+              <node node_ref="r:098003af-922e-427d-b80c-3ac0cb697351(NewLanguage.editor)/1078366219464082739" />
             </state>
           </provider>
         </entry>
@@ -171,7 +193,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -208,7 +230,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -224,62 +246,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://NewLanguage.sandbox/NewLanguage.sandbox/RascalImporter">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="-165" />
-                    <property name="caretXRelative" value="-481" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="JComponent_9tkl08_d0a_0">
-                      <node node_reference="r:6c571311-4cde-413a-bd4d-6d854e4fc8f3(NewLanguage.sandbox)/1982657837454923767" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="mps://node://NewLanguage/NewLanguage.structure/RascalImporter">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="24">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="selectionStart" value="0" />
-                    <property name="hasNonTrivialSelection" value="true" />
-                    <property name="caretX" value="295" />
-                    <property name="selectionEnd" value="4" />
-                    <property name="caretXRelative" value="0" />
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="232" />
+                    <property name="caretXRelative" value="98" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_x5m1a6_a0">
-                      <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" />
+                    <cellInfo cellId="property_name">
+                      <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
                 <errorMarkers />
                 <transactionalProperties />
                 <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/126089375059159515" />
+                    </cellIdElement>
+                  </collapsedElement>
                   <collapsedElement isCollapsed="false">
                     <cellIdElement cellId="Collection_fao2ea_a">
                       <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487175939" />
@@ -296,15 +286,9 @@
                     </cellIdElement>
                   </collapsedElement>
                 </foldable>
-                <restoreAlways>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a">
-                      <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487175939" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </restoreAlways>
+                <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -316,6 +300,292 @@
                 </enabledHints>
               </inspectorMemento>
               <node node_ref="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mps://node://NewLanguage.sandbox/NewLanguage.sandbox/RascalImporter">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                    <property name="caretX" value="-327" />
+                    <property name="caretXRelative" value="-724" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="JComponent_9tkl08_d0a_0">
+                      <node node_reference="r:6c571311-4cde-413a-bd4d-6d854e4fc8f3(NewLanguage.sandbox)/7133254554747797359" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers>
+                  <errorMarker text="" propertyCell="false" cellId="Error">
+                    <node node_reference="r:6c571311-4cde-413a-bd4d-6d854e4fc8f3(NewLanguage.sandbox)/7133254554747797360" />
+                  </errorMarker>
+                </errorMarkers>
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mps://node://external/org.rascalmpl.uri@java_stub/URIUtil">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createRascalModule%28java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="HAAC_refNodeList_annotation">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createRascalModule%28java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createFromURI%28java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.removeOffset%28io.usethesource.vallang.ISourceLocation%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.removeAuthority%28io.usethesource.vallang.ISourceLocation%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getLocationName%28io.usethesource.vallang.ISourceLocation%29:java.lang.String" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getURIName%28java.net.URI%29:java.lang.String" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getChildLocation%28io.usethesource.vallang.ISourceLocation,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getParentLocation%28io.usethesource.vallang.ISourceLocation%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getParentURI%28java.net.URI%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changePort%28java.net.URI,int%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeHost%28java.net.URI,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeUserInformation%28java.net.URI,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeFragment%28java.net.URI,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeQuery%28io.usethesource.vallang.ISourceLocation,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeQuery%28java.net.URI,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changePath%28io.usethesource.vallang.ISourceLocation,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changePath%28java.net.URI,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeAuthority%28java.net.URI,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeScheme%28io.usethesource.vallang.ISourceLocation,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeScheme%28java.net.URI,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getCorrectAuthority%28io.usethesource.vallang.ISourceLocation%29:java.lang.String" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getCorrectAuthority%28java.net.URI%29:java.lang.String" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.fixUnicode%28java.net.URI%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.rootLocation%28java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.rootScheme%28java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.invalidLocation%28%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.invalidURI%28%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createLocation%28java.lang.String,java.lang.String,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.correctLocation%28java.lang.String,java.lang.String,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.assumeCorrect%28java.lang.String,java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.assumeCorrect%28java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.assumeCorrect%28java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createFromEncoded%28java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="commentCollection">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/8595704723503752888" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.fixWindowsPath%28java.lang.String%29:java.lang.String" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createFileLocation%28java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.decodeURLPart%28java.lang.String%29:java.lang.String" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.fromURL%28java.net.URL%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createFile%28java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.create%28java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.create%28java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.create%28java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                    </cellIdElement>
+                  </collapsedElement>
+                  <collapsedElement isCollapsed="false">
+                    <cellIdElement cellId="Collection_fao2ea_a">
+                      <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.&lt;init&gt;%28%29" />
+                    </cellIdElement>
+                  </collapsedElement>
+                </foldable>
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
+                <selectionStack />
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
             </state>
           </provider>
         </entry>
@@ -341,7 +611,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -358,6 +628,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MPSBookmarkManager">
     <option name="myBookmarkInfos">
@@ -376,10 +649,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="306" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1134" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectPluginManager">
     <option name="pluginsState">
       <option name="de.itemis.mps.editor.celllayout.runtime.plugin.Runtime_ProjectPlugin">
@@ -470,53 +745,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystem">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="" />
+            </path>
+            <path>
+              <item name="" type="" />
+              <item name="" type="" />
+            </path>
+            <path>
+              <item name="" type="" />
+              <item name="" type="" />
+              <item name="" type="" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="7694383c-c172-4f9b-ba3e-2e4103639d0d(NewLanguage)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:098003af-922e-427d-b80c-3ac0cb697351(NewLanguage.editor) in IdeaFile[file:///Users/mauricio/MPSProjects/RascalImporter/languages/NewLanguage/models/editor.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fead39da-8e0b-47f2-9404-bc5111d6ce51" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stubs" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="52d47d98-60e6-4f34-a3ee-4fe50b575602" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Modules Pool" />
@@ -529,35 +779,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="7694383c-c172-4f9b-ba3e-2e4103639d0d(NewLanguage)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="7694383c-c172-4f9b-ba3e-2e4103639d0d(NewLanguage)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:c1b74b72-975a-42f3-b7fb-5fbd742cc995(NewLanguage.structure) in IdeaFile[file:///Users/mauricio/MPSProjects/RascalImporter/languages/NewLanguage/models/structure.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="52d47d98-60e6-4f34-a3ee-4fe50b575602" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="NewLanguage" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -585,7 +807,41 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fead39da-8e0b-47f2-9404-bc5111d6ce51" />
+              <option name="myItemId" value="7694383c-c172-4f9b-ba3e-2e4103639d0d(NewLanguage)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior) in IdeaFile[file:///Users/mauricio/MPSProjects/RascalImporter/languages/NewLanguage/models/behavior.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="52d47d98-60e6-4f34-a3ee-4fe50b575602" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewLanguage" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7694383c-c172-4f9b-ba3e-2e4103639d0d(NewLanguage)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -599,7 +855,7 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior) in IdeaFile[file:///Users/mauricio/MPSProjects/RascalImporter/languages/NewLanguage/models/behavior.mps]" />
+              <option name="myItemId" value="r:098003af-922e-427d-b80c-3ac0cb697351(NewLanguage.editor) in IdeaFile[file:///Users/mauricio/MPSProjects/RascalImporter/languages/NewLanguage/models/editor.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -613,33 +869,14 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior) in IdeaFile[file:///Users/mauricio/MPSProjects/RascalImporter/languages/NewLanguage/models/behavior.mps]" />
+              <option name="myItemId" value="r:098003af-922e-427d-b80c-3ac0cb697351(NewLanguage.editor) in IdeaFile[file:///Users/mauricio/MPSProjects/RascalImporter/languages/NewLanguage/models/editor.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="4128452876487145721" />
+              <option name="myItemId" value="1078366219464012522" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
-        </subPane>
-      </pane>
-      <pane id="FileSystem">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="" />
-            </path>
-            <path>
-              <item name="" type="" />
-              <item name="" type="" />
-            </path>
-            <path>
-              <item name="" type="" />
-              <item name="" type="" />
-              <item name="" type="" />
-            </path>
-          </expand>
-          <select />
         </subPane>
       </pane>
     </panes>
@@ -660,14 +897,58 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Tests in 'NewLanguage.sandbox'" type="JUnit Tests" factoryName="JUnit Tests" temporary="true">
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModelRef" value="r:6c571311-4cde-413a-bd4d-6d854e4fc8f3(NewLanguage.sandbox)" />
+          <option name="myModuleRef" value="52d47d98-60e6-4f34-a3ee-4fe50b575602(NewLanguage.sandbox)" />
+          <option name="myInProcess" value="false" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myOverrideCachesLocation" value="false" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/var/folders/xb/gkrvqrr950xg31x1c_vx23wh0000gp/T/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="2" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" value="$APPLICATION_HOME_DIR$/bin" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+      <method v="2">
+        <option name="jetbrains.mps.execution.configurations.pluginSolution.plugin.MakeNodePointers_BeforeTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit Tests.Tests in 'NewLanguage.sandbox'" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="306" y="23" width="1134" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6290116" visible="true" weight="0.22460657" />
-      <window_info id="Structure" order="1" sideWeight="0.37098846" side_tool="true" visible="true" weight="0.22460657" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6155268" visible="true" weight="0.30311355" />
+      <window_info id="Structure" order="1" sideWeight="0.3844732" side_tool="true" visible="true" weight="0.30311355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -675,12 +956,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Model Checker" order="7" sideWeight="0.48771265" weight="0.45264623" />
+      <window_info anchor="bottom" id="Model Checker" order="7" sideWeight="0.48712447" weight="0.45186135" />
       <window_info anchor="bottom" id="Bookmarks" order="8" />
       <window_info anchor="bottom" id="Migration" order="9" />
       <window_info anchor="bottom" id="Menu Trace" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32961586" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50182617" side_tool="true" weight="0.3283767" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4981685" weight="0.32991013" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50183153" side_tool="true" weight="0.32991013" />
       <window_info anchor="bottom" id="Classpath Explorer" order="13" />
       <window_info anchor="bottom" id="Usages" order="14" />
       <window_info anchor="bottom" id="Node Explorer" order="15" sideWeight="0.49963477" weight="0.35815147" />
@@ -688,11 +969,11 @@
       <window_info anchor="bottom" id="Version Control" order="17" show_stripe_button="false" />
       <window_info anchor="bottom" id="Generation Tracer" order="18" />
       <window_info anchor="bottom" id="Cell Explorer" order="19" />
-      <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.48905805" weight="0.3055199" />
+      <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.49175823" visible="true" weight="0.3055199" />
       <window_info anchor="bottom" id="Typechecker State" order="21" />
       <window_info anchor="bottom" id="Console" order="22" weight="0.32961586" />
       <window_info anchor="bottom" id="RefactoringView" order="23" />
-      <window_info anchor="bottom" id="Inspector" order="24" sideWeight="0.510942" side_tool="true" weight="0.3055199" />
+      <window_info active="true" anchor="bottom" id="Inspector" order="24" sideWeight="0.5082418" side_tool="true" visible="true" weight="0.3055199" />
       <window_info anchor="bottom" id="Dependencies Viewer" order="25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -714,42 +995,48 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://NewLanguage/NewLanguage.structure/&lt;no name&gt;[InterfaceConceptDeclaration]" />
-    <entry file="file://$USER_HOME$/Downloads/mps-antlr-master/languages/me.tomassetti.mpsantlr/me.tomassetti.mpsantlr.mpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-644" />
-      </provider>
-    </entry>
-    <entry file="mps://node://NewLanguage/NewLanguage.structure/&lt;no name&gt;[PrimitiveDataTypeDeclaration]" />
-    <entry file="file://$USER_HOME$/Downloads/mps-antlr-master/languages/me.tomassetti.mpsantlr/models/structure.mps">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="mps://node://NewLanguage/NewLanguage.editor/null" />
-    <entry file="mps://node://NewLanguage/NewLanguage.editor/&lt;no name&gt;[CellMenuComponent]" />
-    <entry file="mps://node://NewLanguage/NewLanguage.editor/&lt;no name&gt;[CellActionMapDeclaration]" />
-    <entry file="mps://node://NewLanguage/NewLanguage.structure/&lt;no name&gt;[ConceptDeclaration]" />
-    <entry file="mps://node://NewLanguage/NewLanguage.editor/&lt;no name&gt;[EditorComponentDeclaration]" />
-    <entry file="mps://node://jetbrains.mps.lang.editor/jetbrains.mps.lang.editor.structure/CellModel_RefNodeList">
+    <entry file="mps://node://external/org.rascalmpl.library@java_stub/Rascal2MPS">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="78" />
-                <property name="caretXRelative" value="49" />
+                <property name="caretX" value="190" />
+                <property name="caretXRelative" value="21" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="role">
-                  <node node_reference="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1165347032372" />
+                <cellInfo cellId="methodName">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.library(external/)/~Rascal2MPS.getASTConstructor%28java.lang.String%29:io.usethesource.vallang.IConstructor" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <errorMarkers />
             <transactionalProperties />
-            <foldable />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.library(external/)/~Rascal2MPS.getLocation%28io.usethesource.vallang.IValueFactory,java.net.URL%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.library(external/)/~Rascal2MPS.getASTConstructor%28java.lang.String%29:io.usethesource.vallang.IConstructor" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.library(external/)/~Rascal2MPS.getAST%28java.lang.String,java.lang.String,java.lang.String%29:io.usethesource.vallang.IConstructor" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.library(external/)/~Rascal2MPS.&lt;init&gt;%28%29" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1165347032372" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.library(external/)/~Rascal2MPS.getASTConstructor%28java.lang.String%29:io.usethesource.vallang.IConstructor" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -760,82 +1047,9 @@
               <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
             </enabledHints>
           </inspectorMemento>
-          <node node_ref="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1073390211982" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://jetbrains.mps.lang.structure/jetbrains.mps.lang.structure.structure/ConceptDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="237" />
-                <property name="caretXRelative" value="126" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="name">
-                  <node node_reference="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-          <node node_ref="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)/1071489090640" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://jetbrains.mps.lang.editor/jetbrains.mps.lang.editor.structure/ConceptEditorDeclaration">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="64" />
-                <property name="caretXRelative" value="49" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a">
-                  <node node_reference="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1071666914219" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1071666914219" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-          <node node_ref="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)/1071666914219" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://NewLanguage#01/main@generator/main" />
-    <entry file="mps://node://Tmp/note/note" />
     <entry file="mps://node://NewLanguage/NewLanguage.structure/NonTerminalNode">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -843,11 +1057,11 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="64" />
-                <property name="caretXRelative" value="49" />
+                <property name="caretX" value="323" />
+                <property name="caretXRelative" value="105" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a">
-                  <node node_reference="r:c1b74b72-975a-42f3-b7fb-5fbd742cc995(NewLanguage.structure)/1078366219464012126" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:098003af-922e-427d-b80c-3ac0cb697351(NewLanguage.editor)/1078366219464082739" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -856,7 +1070,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -867,7 +1081,7 @@
               <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
             </enabledHints>
           </inspectorMemento>
-          <node node_ref="r:c1b74b72-975a-42f3-b7fb-5fbd742cc995(NewLanguage.structure)/1078366219464012126" />
+          <node node_ref="r:098003af-922e-427d-b80c-3ac0cb697351(NewLanguage.editor)/1078366219464082739" />
         </state>
       </provider>
     </entry>
@@ -891,7 +1105,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -926,7 +1140,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -941,26 +1155,238 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.sandbox/RascalImporter">
+    <entry file="mps://node://external/org.rascalmpl.uri@java_stub/URIUtil">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="-165" />
-                <property name="caretXRelative" value="-481" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_9tkl08_d0a_0">
-                  <node node_reference="r:6c571311-4cde-413a-bd4d-6d854e4fc8f3(NewLanguage.sandbox)/1982657837454923767" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+            <selectionStack />
             <errorMarkers />
             <transactionalProperties />
-            <foldable />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createRascalModule%28java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createRascalModule%28java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createFromURI%28java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.removeOffset%28io.usethesource.vallang.ISourceLocation%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.removeAuthority%28io.usethesource.vallang.ISourceLocation%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getLocationName%28io.usethesource.vallang.ISourceLocation%29:java.lang.String" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getURIName%28java.net.URI%29:java.lang.String" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getChildLocation%28io.usethesource.vallang.ISourceLocation,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getParentLocation%28io.usethesource.vallang.ISourceLocation%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getParentURI%28java.net.URI%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changePort%28java.net.URI,int%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeHost%28java.net.URI,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeUserInformation%28java.net.URI,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeFragment%28java.net.URI,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeQuery%28io.usethesource.vallang.ISourceLocation,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeQuery%28java.net.URI,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changePath%28io.usethesource.vallang.ISourceLocation,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changePath%28java.net.URI,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeAuthority%28java.net.URI,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeScheme%28io.usethesource.vallang.ISourceLocation,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.changeScheme%28java.net.URI,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getCorrectAuthority%28io.usethesource.vallang.ISourceLocation%29:java.lang.String" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.getCorrectAuthority%28java.net.URI%29:java.lang.String" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.fixUnicode%28java.net.URI%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.rootLocation%28java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.rootScheme%28java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.invalidLocation%28%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.invalidURI%28%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createLocation%28java.lang.String,java.lang.String,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.correctLocation%28java.lang.String,java.lang.String,java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.assumeCorrect%28java.lang.String,java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.assumeCorrect%28java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.assumeCorrect%28java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createFromEncoded%28java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="commentCollection">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/8595704723503752888" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.fixWindowsPath%28java.lang.String%29:java.lang.String" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createFileLocation%28java.lang.String%29:io.usethesource.vallang.ISourceLocation" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.decodeURLPart%28java.lang.String%29:java.lang.String" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.fromURL%28java.net.URL%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.createFile%28java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.create%28java.lang.String,java.lang.String,java.lang.String,int,java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.create%28java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.create%28java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String%29:java.net.URI" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="fead39da-8e0b-47f2-9404-bc5111d6ce51/java:org.rascalmpl.uri(external/)/~URIUtil.&lt;init&gt;%28%29" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -994,7 +1420,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1009,26 +1435,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="mps://node://NewLanguage.sandbox/NewLanguage.sandbox/RascalImporter">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="-327" />
+                <property name="caretXRelative" value="-724" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="JComponent_9tkl08_d0a_0">
+                  <node node_reference="r:6c571311-4cde-413a-bd4d-6d854e4fc8f3(NewLanguage.sandbox)/7133254554747797359" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers>
+              <errorMarker text="" propertyCell="false" cellId="Error">
+                <node node_reference="r:6c571311-4cde-413a-bd4d-6d854e4fc8f3(NewLanguage.sandbox)/7133254554747797360" />
+              </errorMarker>
+            </errorMarkers>
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
     <entry file="mps://node://NewLanguage/NewLanguage.structure/RascalImporter">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="24">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="selectionStart" value="0" />
-                <property name="hasNonTrivialSelection" value="true" />
-                <property name="caretX" value="295" />
-                <property name="selectionEnd" value="4" />
-                <property name="caretXRelative" value="0" />
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="232" />
+                <property name="caretXRelative" value="98" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_x5m1a6_a0">
-                  <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <errorMarkers />
             <transactionalProperties />
             <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="Collection_fao2ea_a">
+                  <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/126089375059159515" />
+                </cellIdElement>
+              </collapsedElement>
               <collapsedElement isCollapsed="false">
                 <cellIdElement cellId="Collection_fao2ea_a">
                   <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487175939" />
@@ -1045,15 +1511,9 @@
                 </cellIdElement>
               </collapsedElement>
             </foldable>
-            <restoreAlways>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487175939" />
-                </cellIdElement>
-              </collapsedElement>
-            </restoreAlways>
+            <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487177598" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:2002eee8-63a4-4e64-b2df-978ae89b1fff(NewLanguage.behavior)/4128452876487145721" saveSessionState="false" viewPositionX="1" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />

@@ -12,6 +12,7 @@
     <classNode extendsClassName="jetbrains.mps.core.aspects.behaviour.BaseBehaviorAspectDescriptor" />
   </dependency>
   <dependency className="NewLanguage.behavior.RascalImporter__BehaviorDescriptor" file="RascalImporter__BehaviorDescriptor.java">
+    <classNode dependClassName="io.usethesource.vallang.IConstructor" />
     <classNode dependClassName="io.usethesource.vallang.IValue" />
     <classNode dependClassName="io.usethesource.vallang.IValueFactory" />
     <classNode dependClassName="java.lang.Class" />
@@ -39,6 +40,7 @@
     <classNode dependClassName="org.jetbrains.mps.openapi.language.SAbstractConcept" />
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode dependClassName="org.rascalmpl.library.Prelude" />
+    <classNode dependClassName="org.rascalmpl.library.Rascal2MPS" />
     <classNode dependClassName="org.rascalmpl.values.ValueFactoryFactory" />
     <classNode extendsClassName="jetbrains.mps.core.aspects.behaviour.BaseBHDescriptor" />
   </dependency>

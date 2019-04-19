@@ -161,7 +161,7 @@ import jetbrains.mps.openapi.editor.menus.transformation.SNodeLocation;
       public void actionPerformed(ActionEvent p0) {
         getEditorContext().getRepository().getModelAccess().executeCommand(new Runnable() {
           public void run() {
-            RascalImporter__BehaviorDescriptor.importModel_id3_bdwi6Xb$4.invoke(myNode);
+            RascalImporter__BehaviorDescriptor.getAST_id6ZXpTqmyBr.invoke(myNode);
           }
         });
       }

@@ -23,6 +23,8 @@ import org.rascalmpl.library.Prelude;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SLinkOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SConceptOperations;
 import jetbrains.mps.lang.smodel.generator.smodelAdapter.SPropertyOperations;
+import org.rascalmpl.library.Rascal2MPS;
+import io.usethesource.vallang.IConstructor;
 import jetbrains.mps.core.aspects.behaviour.api.SConstructor;
 import org.jetbrains.annotations.Nullable;
 import jetbrains.mps.core.aspects.behaviour.api.BHMethodNotFoundException;
@@ -33,8 +35,9 @@ public final class RascalImporter__BehaviorDescriptor extends BaseBHDescriptor {
 
   public static final SMethod<Void> importModel_id3_bdwi6Xb$4 = new SMethodBuilder<Void>(new SJavaCompoundTypeImpl(Void.class)).name("importModel").modifiers(SModifiersImpl.create(0, AccessPrivileges.PUBLIC)).concept(CONCEPT).id("3_bdwi6Xb$4").registry(REGISTRY).build();
   /*package*/ static final SMethod<SNode> toNode_id3_bdwi6XiW3 = new SMethodBuilder<SNode>(new SJavaCompoundTypeImpl((Class<SNode>) ((Class) Object.class))).name("toNode").modifiers(SModifiersImpl.create(0, AccessPrivileges.PRIVATE)).concept(CONCEPT).id("3_bdwi6XiW3").registry(REGISTRY).build(SMethodBuilder.createJavaParameter(IValue.class, ""));
+  public static final SMethod<SNode> getAST_id6ZXpTqmyBr = new SMethodBuilder<SNode>(new SJavaCompoundTypeImpl((Class<SNode>) ((Class) Object.class))).name("getAST").modifiers(SModifiersImpl.create(0, AccessPrivileges.PUBLIC)).concept(CONCEPT).id("6ZXpTqmyBr").registry(REGISTRY).build();
 
-  private static final List<SMethod<?>> BH_METHODS = Arrays.<SMethod<?>>asList(importModel_id3_bdwi6Xb$4, toNode_id3_bdwi6XiW3);
+  private static final List<SMethod<?>> BH_METHODS = Arrays.<SMethod<?>>asList(importModel_id3_bdwi6Xb$4, toNode_id3_bdwi6XiW3, getAST_id6ZXpTqmyBr);
 
   private static void ___init___(@NotNull SNode __thisNode__) {
   }
@@ -53,6 +56,14 @@ public final class RascalImporter__BehaviorDescriptor extends BaseBHDescriptor {
   /*package*/ static SNode toNode_id3_bdwi6XiW3(@NotNull SNode __thisNode__, IValue val) {
     SNode mpsNode = SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x7694383cc1724f9bL, 0xba3e2e4103639d0dL, 0xef7205cf8eef15eL, "NewLanguage.structure.NonTerminalNode"));
     SPropertyOperations.assign(mpsNode, MetaAdapterFactory.getProperty(0x7694383cc1724f9bL, 0xba3e2e4103639d0dL, 0xef7205cf8eef15eL, 0xef7205cf8eef15fL, "ruleName"), val.getType().toString());
+    return mpsNode;
+  }
+  /*package*/ static SNode getAST_id6ZXpTqmyBr(@NotNull SNode __thisNode__) {
+    Rascal2MPS m = new Rascal2MPS();
+    IConstructor c = m.getSomething();
+    SNode mpsNode = SConceptOperations.createNewNode(MetaAdapterFactory.getConcept(0x7694383cc1724f9bL, 0xba3e2e4103639d0dL, 0xef7205cf8eef15eL, "NewLanguage.structure.NonTerminalNode"));
+    SPropertyOperations.assign(mpsNode, MetaAdapterFactory.getProperty(0x7694383cc1724f9bL, 0xba3e2e4103639d0dL, 0xef7205cf8eef15eL, 0xef7205cf8eef15fL, "ruleName"), c.getName());
+
     return mpsNode;
   }
 
@@ -77,6 +88,8 @@ public final class RascalImporter__BehaviorDescriptor extends BaseBHDescriptor {
         return null;
       case 1:
         return (T) ((SNode) toNode_id3_bdwi6XiW3(node, (IValue) parameters[0]));
+      case 2:
+        return (T) ((SNode) getAST_id6ZXpTqmyBr(node));
       default:
         throw new BHMethodNotFoundException(this, method);
     }
